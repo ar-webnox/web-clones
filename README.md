@@ -23,7 +23,7 @@
 
 ⭐ **Pexels**<br>
 🔗 [Official](https://www.pexels.com/) ~
-[Clone Link 1](https://-clone-arwebnox.vercel.app/) • [Clone Link 2](https://-clone-arwebnox.netlify.app/)<br>
+[Clone Link 1](https://pexels-clone-arwebnox.vercel.app/) • [Clone Link 2](https://pexels-clone-arwebnox.netlify.app/)<br>
 ⚙️ **Stack:** HTML + CSS + RWD<br>
 📝 **What:** Fully responsive Pexels homepage clone designed with HTML and CSS.
 <br>
